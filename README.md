@@ -1,2 +1,1 @@
-# On that Design Pattern grind
-## All day, erry day.
+# If you ever think you've got it all figured out: you're wrong.
